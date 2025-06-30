@@ -14,4 +14,6 @@ function isValidStore(raw: unknown): raw is Store {
 
 
 ### How to deploy something that isn't buggy?
-I worked on a feature and deployed it to the production. Something is not working. And I don't know what to fix.
+I worked on a feature and deployed it to the production. Something is not working. And I don't know what to fix. <br>
+Everything is working properly in development. But for some reason things are not working in the server.
+* Why is that?
