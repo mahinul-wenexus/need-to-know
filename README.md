@@ -11,3 +11,7 @@ function isValidStore(raw: unknown): raw is Store {
 
 // what does "raw is Store" means?
 ```
+
+
+### How to deploy something that isn't buggy?
+I worked on a feature and deployed it to the production. Something is not working. And I don't know what to fix.
